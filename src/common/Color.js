@@ -1,1 +1,16 @@
-
+export default {
+  background: "#e7d9cb",
+  primary: "#00966C",
+  accent: "#e6fffd",
+  tile_2: "#EBDCD0",
+  tile_4: "#E9DBBA",
+  tile_8: "#E9A067",
+  tile_16: "#F08151",
+  tile_32: "#F2654F",
+  tile_64: "#F1462C",
+  tile_128: "#E7C65E",
+  tile_256: "#E8C350",
+  tile_512: "#E8BE40",
+  tile_1024: "#E8BB31",
+  tile_2048: "#E7B723",
+};
